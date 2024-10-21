@@ -11,7 +11,7 @@ parts:
   - file: need
 - caption: Role of SSI in ReCert 
   chapters:
-  - file: role
+  - file: ssi
 - caption: Blockchain Trilemma Challenges 
   chapters:
   - file: trilemma
