@@ -19,7 +19,7 @@ parts:
 - caption: Architecture of ReCert 
   chapters:
   - file: content/architecture
-- caption: ReCert as a Foundation Framework for BCTE 
+- caption: ReCert and BCTE 
   chapters:
   - file: content/bcte
 - caption: Under-development Features 
