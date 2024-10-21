@@ -4,24 +4,24 @@
 format: jb-book
 root: homepage
 parts:
-- caption: Introduction
+- caption: - Introduction
   chapters:
   - file: content/introduction
-- caption: Need and Significance of ReCert 
+- caption: - Need and Significance of ReCert 
   chapters:
   - file: content/need
-- caption: Role of SSI in ReCert 
+- caption: - Role of SSI in ReCert 
   chapters:
   - file: content/ssi
-- caption: Blockchain Trilemma Challenges 
+- caption: - Blockchain Trilemma Challenges 
   chapters:
   - file: content/trilemma
-- caption: Architecture of ReCert 
+- caption: - Architecture of ReCert 
   chapters:
   - file: content/architecture
-- caption: ReCert and BCTE 
+- caption: - ReCert and BCTE 
   chapters:
   - file: content/bcte
-- caption: Roadmap of ReCert
+- caption: - Roadmap of ReCert
   chapters:
   - file: content/future
