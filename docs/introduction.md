@@ -1,4 +1,3 @@
-### Energy Sector Transformation and Blockchain-based Energy Trading (BCTE)
 The shift towards renewable energy has led to innovations in how energy is managed. Blockchain-based Energy Trading (BCTE) is emerging as a decentralized solution that improves transparency and automation in energy transactions, enabling peer-to-peer energy trading and boosting renewable energy adoption.
 
 ### Challenges and Strategy for BCTE Implementation
