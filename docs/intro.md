@@ -1,12 +1,10 @@
 (intro)=
 
-# Jupyter Book on Read the Docs
+# ReCert - A Prosumer-centric BCTE Solution
 
-This example shows a Jupyter Book project built and published on Read the Docs.
-You're encouraged to use it to get inspiration and copy & paste from the files in [the source code repository][github]. In the source repository, you will also find the relevant configuration and instructions for building Jupyter Book projects on Read the Docs.
+Blockchain-enabled Transactive Energy (BCTE) heralds a revolutionary departure from traditional paradigms to achieve decentralization and its benefits in the energy sector. Despite the foundational insights provided by the IEEE's seminal position paper in 2021, the practical realization of BCTE still needs to be achieved, necessitating substantial research and development endeavors toward the real-world realization of BCTE. Our study responds to this imperative by presenting a foundational framework of ReCert that aims to unlock the full potential of BCTE through a prosumer-centric approach and sets a cornerstone to advance toward a fully functional BCTE solution.
 
-If you are using Read the Docs for the first time, have a look at the official [Read the Docs Tutorial][tutorial].
-If you are using Jupyter Book for the first time, have a look at the [official Jupyter Book documentation][jb-docs].
+ReCert introduces a Re-Certification mechanism that operates over Self-sovereign Identity (SSI), which also serves as a gluing force between the DLT and blockchain components of the ReCert framework to tackle the challenges of the blockchain trilemma. This study shows the feasibility of the ReCert framework in supporting the BCTE modules of Granular Certificates (GC), Decentralized Identity (DI), and Aggregation that operate through the concepts of SSI. The evolutionary framework of ReCert follows the layered approach to establish the groundwork for transforming into a fully decentralized BCTE solution. 
 
 ## Why run Jupyter Book with Read the Docs?
 
