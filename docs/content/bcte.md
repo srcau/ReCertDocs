@@ -1,4 +1,4 @@
-#### abc
+#### Role of ReCert as a foundational framework for BCTE
 This section explains the reasons behind selecting Concordium, IOTA, and SSI technologies for the ReCert framework, emphasizing their roles in creating a fully functional BCTE solution.
 
 ### Importance of Concordium Blockchain as a Single Source of Truth
