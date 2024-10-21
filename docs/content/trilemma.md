@@ -1,3 +1,5 @@
+# Novel approach of ReCert
+
 Figure 3 illustrates the shift from distributed databases to blockchain, highlighting similarities between the CAP theorem's limitations and the blockchain trilemma. On-chain solutions enhance scalability with consensus algorithms, while off-chain approaches build on existing layer-1 solutions. This section introduces these concepts, leading to our hybrid solution.
 
 ### From Distributed Databases to DLTs
