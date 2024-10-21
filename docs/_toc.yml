@@ -2,25 +2,26 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: homepage
 parts:
 - caption: Introduction
-- file: introduction
+  chapters:
+  - file: content/introduction
 - caption: Need and Significance of ReCert 
   chapters:
-  - file: need
+  - file: content/need
 - caption: Role of SSI in ReCert 
   chapters:
-  - file: ssi
+  - file: content/ssi
 - caption: Blockchain Trilemma Challenges 
   chapters:
-  - file: trilemma
-- caption: Archicteture of ReCert 
+  - file: content/trilemma
+- caption: Architecture of ReCert 
   chapters:
-  - file: archicteture
+  - file: content/architecture
 - caption: ReCert as a Foundation Framework for BCTE 
   chapters:
-  - file: bcte
+  - file: content/bcte
 - caption: Under-development Features 
   chapters:
-  - file: future
+  - file: content/future
