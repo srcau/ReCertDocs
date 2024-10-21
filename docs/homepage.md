@@ -30,4 +30,4 @@ This section justifies the technologies adopted in our proposed solution of ReCe
 
 ### Under-development Features
 
-This section defines the future roadmap of ReCert and what is the current progress on the stated features of ReCert. 
+This section defines the future roadmap of ReCert and explains the current progress on the stated features of ReCert. 
