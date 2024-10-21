@@ -1,3 +1,5 @@
+# Basic components of ReCert
+
 The ReCert framework integrates Concordium’s secure, decentralized blockchain with IOTA’s scalable and feeless DLT. Verifiable Credentials (VCs) and Verifiable Presentations (VPs) of Self-Sovereign Identity (SSI) connect the two layer-1 platforms. The framework's key entities ensure the integrity of ReCert certificates, supported by SSI and Merkle trees.
 
 ### Key Entities in the ReCert Framework
