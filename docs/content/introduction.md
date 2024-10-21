@@ -1,4 +1,4 @@
-# An overview of the ReCert Project
+## An overview of the ReCert Project
 
 The shift towards renewable energy has led to innovations in how energy is managed. Blockchain-based Energy Trading (BCTE) is emerging as a decentralized solution that improves transparency and automation in energy transactions, enabling peer-to-peer energy trading and boosting renewable energy adoption.
 
