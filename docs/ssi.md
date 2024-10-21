@@ -1,4 +1,3 @@
-### SSI for Decentralized Identity and Certificate Management
 Self-Sovereign Identity (SSI) is a powerful tool for decentralized identity management, offering advanced features like Verifiable Credentials (VCs) and Verifiable Presentations (VPs). It allows for flexible certificate management, making it ideal for BCTE solutions, as shown in our previously published work. The integration of SSI enables decentralized self-certification of prosumer meters in ReCert.
 
 ### Public Key Infrastructure (PKI) and Root of Trust (RoT)
