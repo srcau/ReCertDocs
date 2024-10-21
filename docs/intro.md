@@ -1,6 +1,6 @@
 (intro)=
 
-# ReCert - Prosumer-driven RECs based on SSI
+# ReCert: Prosumer-driven RECs based on SSI
 
 Renewable Energy Certificates (RECs), a type of Energy Attribute Certificate (EAC), are used to track the production and consumption of renewable energy. ReCert introduces a Re-certification mechanism leveraging Self-Sovereign Identity (SSI) to standardize EACs. This standardization enables global trading of EACs through a blockchain-based marketplace. 
 
