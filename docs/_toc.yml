@@ -4,15 +4,24 @@
 format: jb-book
 root: intro
 parts:
-- caption: Basic examples 🪄
+- caption: Introduction 
   chapters:
-  - file: markdown
-  - file: notebooks
-  - file: markdown-notebooks
-- caption: Cool extensions 🕶️
+  - file: introduction
+- caption: Need and Significance of ReCert 
   chapters:
-  - file: intersphinx
-  - file: sphinx-examples
-  - file: sphinx-hoverxref
-  - file: sphinx-proof
-
+  - file: need
+- caption: Role of SSI in ReCert 
+  chapters:
+  - file: role
+- caption: Blockchain Trilemma Challenges 
+  chapters:
+  - file: trilemma
+- caption: Archicteture of ReCert 
+  chapters:
+  - file: archicteture
+- caption: ReCert as a Foundation Framework for BCTE 
+  chapters:
+  - file: bcte
+- caption: Under-development Features 
+  chapters:
+  - file: future
