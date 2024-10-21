@@ -4,9 +4,8 @@
 format: jb-book
 root: intro
 parts:
-- caption: Introduction 
-  chapters:
-  - file: introduction
+- caption: Introduction
+- file: introduction
 - caption: Need and Significance of ReCert 
   chapters:
   - file: need
